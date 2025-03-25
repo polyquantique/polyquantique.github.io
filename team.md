@@ -92,7 +92,8 @@ Runs a radio show on CJLO. Likes local music.
      height="90"
      style="float: left; margin-right: 10px;" /> **Vincent Girouard**.  
 Undergraduate Student, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
-2025 summer intern.
+2025 summer intern. \
+Enjoys climbing, music and physics.
 
 
 ### Ancien.nes polyquanticien.nes
