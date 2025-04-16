@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-<img src="https://www.polymtl.ca/expertises/sites/expertises2.amigow2020.polymtl.ca/files/quesada-nicolas.jpg"
+<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/nico.jpeg"
      alt="Nico"
      width="80"
      height="90"
