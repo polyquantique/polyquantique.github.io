@@ -110,7 +110,7 @@ Enjoys tennis, frisbee, Nordic skiing, and a wide range of sports, as well as ex
      height="90"
      style="float: left; margin-right: 10px;" /> [**Tadeu Tassis**](https://tadeutassis.github.io). \
 Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca). \
-Graduated in 2018 with a PhD in Physics from Universidade Federal do ABC (UFABC, Brazil). \
+Graduated in 2024 with a PhD in Physics from Universidade Federal do ABC (UFABC, Brazil). \
 Enjoys music, films, coffee, and roaming through Wikipedia.
 
 ### Ancien.nes polyquanticien.nes
