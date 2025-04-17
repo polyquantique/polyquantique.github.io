@@ -3,6 +3,7 @@ layout: page
 title: News  
 permalink: /news/
 ---
+* 11-04-25 **Tadeu** join us as a postdoc within the Quantamole Quantum Alliance Consortium.
 
 * 01-04-24 Congrats to **Yanic** who has been awarded a Canada Graduate Scholarship to do his masters!
 
