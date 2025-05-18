@@ -6,6 +6,8 @@ permalink: /news/
 
 * 20-05-25 **Javier**, **Karthik**, **Martin** and **Nicolás** will be presenting at [Photonics North](https://www.photonicsnorth.com/en) in Ottawa.
 
+* 08-05-25 **Marius** starts as a Mitacs intern.
+
 * 23-04-25 **Yanic** and **Javier** will be presenting their work at [Quantum Computing Theory in Practice](https://qctip2025.com/) in Berlin.
 
 * 11-04-25 **Tadeu** join us as a postdoc within the Quantamole Quantum Alliance Consortium.
