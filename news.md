@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 20-05-25 **Javier**, **Karthik**, **Martin** and **Nicolás** will be presenting at Photonics North in Ottawa.
+* 20-05-25 **Javier**, **Karthik**, **Martin** and **Nicolás** will be presenting at [Photonics North](https://www.photonicsnorth.com/en) in Ottawa.
 
 * 23-04-25 **Yanic** and **Javier** will be presenting their work at [Quantum Computing Theory in Practice](https://qctip2025.com/) in Berlin.
 
