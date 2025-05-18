@@ -4,7 +4,9 @@ title: News
 permalink: /news/
 ---
 
-* 23-04-24 **Yanic** and **Javier** will be presenting their work at [Quantum Computing Theory in Practice](https://qctip2025.com/) in Berlin.
+* 20-05-25 **Javier**, **Karthik**, **Martin** and **Nicolás** will be presenting at Photonics North in Ottawa.
+
+* 23-04-25 **Yanic** and **Javier** will be presenting their work at [Quantum Computing Theory in Practice](https://qctip2025.com/) in Berlin.
 
 * 11-04-25 **Tadeu** join us as a postdoc within the Quantamole Quantum Alliance Consortium.
 
