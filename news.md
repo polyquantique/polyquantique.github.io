@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 16-06-25 **Gisell**, **Karthik**, **Martin** and **Nicolas** will be presenting at [Photonics for Quantum](https://spie.org/conferences-and-exhibitions/photonics-for-quantum) in Waterloo.
+* 16-06-25 **Gisell**, **Karthik**, **Martin** and **Nicolás** will be presenting at [Photonics for Quantum](https://spie.org/conferences-and-exhibitions/photonics-for-quantum) in Waterloo.
 
 * 20-05-25 **Javier**, **Karthik**, **Martin** and **Nicolás** will be presenting at [Photonics North](https://www.photonicsnorth.com/en) in Ottawa.
 
