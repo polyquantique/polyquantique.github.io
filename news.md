@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+* 23-06-25 **Gisell**'s work in collaboration with Milica Banic from NRC Ottawa on spectrally pure triplets [appears on the arXiv](https://arxiv.org/abs/2506.15810).
+
+
 * 16-06-25 **Gisell**, **Karthik**, **Martin** and **Nicolás** will be presenting at [Photonics for Quantum](https://spie.org/conferences-and-exhibitions/photonics-for-quantum) in Waterloo.
 
 * 20-05-25 **Javier**, **Karthik**, **Martin** and **Nicolás** will be presenting at [Photonics North](https://www.photonicsnorth.com/en) in Ottawa.
