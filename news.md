@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 08-07-25 **Nicolás'** pop-punk cover What's my phase again? Computing the vacuum-to-vacuum amplitude of quadratic bosonic evolution [appears on the arXiv](https://arxiv.org/abs/2507.06154).
+
 * 23-06-25 **Gisell**'s work in collaboration with Milica Banic from NRC Ottawa on spectrally pure triplets [appears on the arXiv](https://arxiv.org/abs/2506.15810).
 
 
