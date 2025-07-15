@@ -74,7 +74,7 @@ Research in our group is financially supported by
 <br>
 
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/pq2.svg"
-     alt="INTRIQ"
+     alt="PQ2"
      width="318" 
      height="200"
      style="float: left; margin-right: 10px;" /> Photonique Quantique Québec.
