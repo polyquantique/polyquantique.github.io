@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 05-09-25 **Nicolas'** work on Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals is published in [Phys. Rev. Applied](https://doi.org/10.1103/c11p-d13h).
+
 * 27-08-25 **Vincent**'s work on decomposing arbitrary unitaries in terms of DFTs and phase masks [appears on the arXiv](https://arxiv.org/pdf/2508.20010).
 
 * 22-08-25 **Nicolás** commented on the latest claim of photonic quantum advantage by USTC in [this article in New Scientist](https://www.newscientist.com/article/2493459-another-quantum-computer-reached-quantum-advantage-does-it-matter/).
