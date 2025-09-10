@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 08-09-25 **Yanic** is presenting his work on Montrealer at the [Random Matrix Summer School 2025](https://benoitcollins.github.io/rmt2025/)
+* 08-09-25 **Yanic** is presenting his work on photon-number moments and cumulants of Gaussian states at the [Random Matrix Summer School 2025](https://benoitcollins.github.io/rmt2025/)
 
 * 05-09-25 **Nicolas'** work on Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals is published in [Phys. Rev. Applied](https://doi.org/10.1103/c11p-d13h).
 
