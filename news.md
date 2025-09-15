@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+
+* 14-09-25 **Karthik**'s work on optimal waveform for dipole moment estimation [appears on the arXiv](https://arxiv.org/abs/2509.09807).
+
 * 08-09-25 **Yanic** is presenting his work on photon-number moments and cumulants of Gaussian states at the [Random Matrix Summer School 2025](https://benoitcollins.github.io/rmt2025/)
 
 * 05-09-25 **Nicolas'** work on Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals is published in [Phys. Rev. Applied](https://doi.org/10.1103/c11p-d13h).
@@ -12,7 +15,7 @@ permalink: /news/
 
 * 22-08-25 **Nicolás** commented on the latest claim of photonic quantum advantage by USTC in [this article in New Scientist](https://www.newscientist.com/article/2493459-another-quantum-computer-reached-quantum-advantage-does-it-matter/).
 
-* 11-08-25 **Ari** presented  a poster on his cat zoology work at [QEC 2025](https://qec25.yalepages.org/).
+* 11-08-25 **Ari** presented  a poster on his quantum cat zoology work at [QEC 2025](https://qec25.yalepages.org/).
 
 * 08-07-25 **Nicolás'** pop-punk cover What's my phase again? Computing the vacuum-to-vacuum amplitude of quadratic bosonic evolution [appears on the arXiv](https://arxiv.org/abs/2507.06154).
 
