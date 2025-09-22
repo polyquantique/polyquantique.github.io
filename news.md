@@ -5,6 +5,8 @@ permalink: /news/
 ---
 
 
+* 16-09-26 **Gisell**'s work in collaboration with Milica Banic from NRC Ottawa on spectrally pure triplets [appears in Quantum Science and Technology](https://doi.org/10.1088/2058-9565/ae0759).
+
 * 14-09-25 **Karthik**'s work on optimal waveform for dipole moment estimation [appears on the arXiv](https://arxiv.org/abs/2509.09807).
 
 * 08-09-25 **Yanic** is presenting his work on photon-number moments and cumulants of Gaussian states at the [Random Matrix Summer School 2025](https://benoitcollins.github.io/rmt2025/)
