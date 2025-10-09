@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 07-10-26 **Nicolás** was invited to comment on this year's Nobel prize in physics awarded to John Clarke, Michel Devoret and John Martinis in [El Espectador](https://www.elespectador.com/ciencia/sonar-con-computadores-cuanticos-y-lo-que-necesita-para-entender-el-nobel-de-fisica-2025/).
+* 07-10-26 **Nicolás** was invited to comment in [El Espectador](https://www.elespectador.com/ciencia/sonar-con-computadores-cuanticos-y-lo-que-necesita-para-entender-el-nobel-de-fisica-2025/) on this year's Nobel prize in physics awarded to John Clarke, Michel Devoret and John Martinis .
 
 * 16-09-26 **Gisell**'s work in collaboration with Milica Banic from NRC Ottawa on spectrally pure triplets [appears in Quantum Science and Technology](https://doi.org/10.1088/2058-9565/ae0759).
 
