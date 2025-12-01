@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 01-12-25 **Martin's** work on high-purity degenerate squeezers in lithium niobate in collaboration with Raj, Liam and Robert from U. Mass Amherst and K. Hirota from U. Tokyo [appears on Optica Quantum](https://doi.org/10.1364/OPTICAQ.566703).
+
 * 20-11-25 **Javier's** work in collaboration with Tom Dodd, Oliver Thomson Brown, Nicolás and Raúl García-Patrón on a fast an frugal GBS emulator [appears on the arXiv](https://arxiv.org/abs/2511.14923).
 
 * 07-11-25 **Nicolás** presented our work on Simulating lossy and partially distinguishable quantum optical circuits at Danish Technical University's bigQ seminar.
