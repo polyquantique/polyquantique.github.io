@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 04-12-25 **Vincent's** decomposition of unitary matrices using discrete Fourier transforms and phase masks appears in [JOSA B](https://doi.org/10.1364/JOSAB.577579)
+* 03-12-25 **Vincent's** decomposition of unitary matrices using discrete Fourier transforms and phase masks appears in [JOSA B](https://doi.org/10.1364/JOSAB.577579).
 
 * 03-12-25 **Nicolás'** What's my phase again? is published in [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2025.0599).
 
