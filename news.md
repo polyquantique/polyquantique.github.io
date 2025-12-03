@@ -6,7 +6,7 @@ permalink: /news/
 
 * 03-12-25 **Vincent's** decomposition of unitary matrices using discrete Fourier transforms and phase masks appears in [JOSA B](https://doi.org/10.1364/JOSAB.577579).
 
-* 03-12-25 **Nicolás'** What's my phase again? is published in [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2025.0599).
+* 03-12-25 **Nicolás'** What's my phase again? is published in [Proceedings of the Royal Society A)[https://royalsocietypublishing.org/rspa/article-abstract/481/2327/20250599/363243/What-s-my-phase-again-Computing-the-vacuum-to?redirectedFrom=fulltext].
 
 * 02-12-25 **Nicolás** presented our work on Photon-number moments and cumulants of Gaussian states at Université de Montréal\'s mathematical physics seminar.
 
