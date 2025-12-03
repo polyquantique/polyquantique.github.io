@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 ---
 
+* 03-12-25 **Nicolás'** What's my phase again? is published in [Proceedings of the Royal Society A](https://doi.org/10.1098/rspa.2025.0599).
+
+* 02-12-25 **Nicolás** presented our work on Photon-number moments and cumulants of Gaussian states at Université de Montréal\'s mathematical physics seminar.
+
+* 01-12-25 **Salvador, Tadeu and Martin's** works on parametric processes in structures with reflections using [asymptotic fields](https://arxiv.org/abs/2512.01999) and [transfer matrices](https://arxiv.org/abs/2512.01921) appear on the arXiv.
+
 * 01-12-25 **Martin's** work on high-purity degenerate squeezers in lithium niobate in collaboration with Raj, Liam and Robert from U. Mass Amherst and K. Hirota from U. Tokyo [appears on Optica Quantum](https://doi.org/10.1364/OPTICAQ.566703).
 
 * 20-11-25 **Javier's** work in collaboration with Tom Dodd, Oliver Thomson Brown, Nicolás and Raúl García-Patrón on a fast an frugal GBS emulator [appears on the arXiv](https://arxiv.org/abs/2511.14923).
