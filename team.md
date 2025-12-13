@@ -114,7 +114,7 @@ Graduated in 2024 with a PhD in Physics from Universidade Federal do ABC (UFABC,
 Enjoys music, films, coffee, and roaming through Wikipedia.
 
 ### Ancien.nes polyquanticien.nes
-* [Yuan Yao](https://scholar.google.ca/citations?hl=en&user=bJ2eOxIAAAAJ) was a visiting Ph.D. student completed [her Ph.D.](https://theses.fr/2023IPPAT005) at [Télécom Paris](https://www.telecom-paris.fr) in 2022 → Quantum Architecture Scientist at Xanadu Quantum Technologies → Boya postdoctoral fellow at Peking U.
+* [Yuan Yao](https://scholar.google.ca/citations?hl=en&user=bJ2eOxIAAAAJ) was a visiting Ph.D. student completed [her Ph.D.](https://theses.fr/2023IPPAT005) at [Télécom Paris](https://www.telecom-paris.fr) in 2022 → Quantum Architecture Scientist at Xanadu Quantum Technologies → BoYa postdoctoral fellow at Peking U.
 * Jaehee Kim was a Qcenter fellow in 2023 → Ph.D. student at [Sungkyunkwan U](https://www.skku.edu/eng/).
 * Marie Lafontaine was a summer and UPIR intern in 2023 → M.Sc. student at [U Sherbrooke](https://www.usherbrooke.ca).
 * Jiaqi Zhao completed his M.Sc.A. in our group in 2024 → Ph.D. student at [Poly Montréal](https://www.polymtl.ca).
