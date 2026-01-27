@@ -10,8 +10,6 @@ permalink: /team/
      height="90"
      style="float: left; margin-right: 10px;" /> [**Nicolás Quesada**](https://www.polymtl.ca/expertises/en/quesada-nicolas).  
 Associate Professor, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
-MEI Chair in Quantum Photonics.  
-Editor of [Quantum](https://quantum-journal.org/), the open journal for quantum science. 
 
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/martin.jpg"
      alt="Martin"
