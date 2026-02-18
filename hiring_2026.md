@@ -16,7 +16,7 @@ We are based in beautiful and welcoming Montréal, a safe but never boring city 
 As part of a collaborative project with Government and academic laboratories (with actual lasers, crystals and detectors!), we are interested in developing analytical and numerical tools to study optical parametrical amplifiers (OPAs) in the Gaussian (squeezing) and non-Gaussian regime as basic building blocks for quantum communication networks. 
 We hope the selected candidates will join the group in 2026. 
 
-### Interested in joining? --- PhD ?
+### Interested in joining ---PhD? 
 
 We are looking for a candidate who has completed a masters' degree and has a strong background (as evidenced e.g. coursework or publications) in quantum/nonlinear optics and in scientific computing. 
 
@@ -32,7 +32,7 @@ To be considered the applicant **must** hold a masters degree or be in the proce
 
 
 
-### Interested in joining? --- Postdoc
+### Interested in joining --- Postdoc?
 
 Expectations:
 
