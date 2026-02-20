@@ -13,12 +13,11 @@ We are a theory group with a significant computational component that collaborat
 We are based in beautiful and welcoming Montréal, a safe but never boring city that consistently ranks as the best city in North America to be a student.
 
 
-As part of a collaborative project with Government and academic laboratories (with actual lasers, crystals and detectors!), we are interested in developing analytical and numerical tools to study optical parametrical amplifiers (OPAs) in the Gaussian (squeezing) and non-Gaussian regime as basic building blocks for quantum communication networks. 
-We hope the selected candidates will join the group in 2026. 
+As part of a collaborative project with Government and academic laboratories (with actual lasers, crystals and detectors!), we are interested in developing analytical and numerical tools to study optical parametrical amplifiers (OPAs) in the Gaussian (squeezing) and non-Gaussian regime as basic building blocks for quantum communication networks. We hope the selected candidates will join the group in 2026. 
 
 ### Interested in joining ---PhD? 
 
-We are looking for a candidate who has completed a masters' degree and has a strong background (as evidenced e.g. coursework or publications) in quantum/nonlinear optics and in scientific computing. 
+We are looking for a candidate who has completed a masters' degree and has a strong background (as evidenced  in e.g. coursework or publications) in quantum/nonlinear optics and in scientific computing. 
 
 To be considered the applicant **must** hold a masters degree or be in the process of obtaining one. Please submit your application by email (using the email nicolas.quesada@polymtl.ca) with the subject line: "Non-Gaussian PhD Applicant: [Name]", and include the following information:
 
@@ -28,8 +27,7 @@ To be considered the applicant **must** hold a masters degree or be in the proce
 
 3. The *names* of two researchers familiar with the applicant's work, willing to provide a letter of reference.
 
-4. A recent trancript from your undegraduate institution.
-
+4. A recent transcript from your undergraduate institution.
 
 
 ### Interested in joining --- Postdoc?
@@ -40,7 +38,7 @@ Expectations:
 * Ability to work independently as well as collaboratively within a research team.
 * Strong problem‑solving and analytical skills, with the capacity to learn new methods quickly.
 * Excellent communication skills, including the ability to present research results in writing and oral presentations.
-* Motivation to develop an independent research profile while contributing to the goals of the larger project
+* Motivation to develop an independent research profile while contributing to the goals of the larger project.
 * Contribute to the development of new experimental/theoretical/computational approaches.
 * Collaborate effectively with team members and external partners.
 

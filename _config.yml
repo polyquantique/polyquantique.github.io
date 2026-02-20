@@ -3,7 +3,7 @@ author:
   name: "[q,p]=i, Polyquantique"
   email: phy-polyquantique@polymtl.ca
 description: > # this means to ignore newlines until "show_excerpts:"
-  Quantum photonics and information at Polytechnique Montréal.
+  Quantum optics and information at Polytechnique Montréal.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
