@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 26-02-26 **Karthik's** work on optimal dipole estimation is now accepted in [New Journal of Physics](https://iopscience.iop.org/article/10.1088/1367-2630/ae4ace)
+* 26-02-26 **Karthik's** work on optimal dipole estimation is now accepted in [New Journal of Physics](https://iopscience.iop.org/article/10.1088/1367-2630/ae4ace).
 
 * 18-02-26 **Javier's** work on simulating imperfect quantum optics in collaboration with Jake Bulmer and Bryn Bell appears in [Advanced Photonics](http://doi.org/10.1117/1.AP.8.1.016010).
 
