@@ -13,15 +13,6 @@ Associate Professor.
 [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
 Self-apppointed benevolent dictator for life of The Walrus.
 
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/martin.jpg"
-     alt="Martin"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Martin Houde**.  
-Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
-Graduated from McGill University in 2018 with a Ph.D. thesis on [Parametric driving as a route to topological states and quantum devices](https://escholarship.mcgill.ca/downloads/rj430699k) supervised by [A. Clerk](https://clerkgroup.uchicago.edu/).  
-Enjoys nature hikes, animal tracking and drinking maple syrup.
-
 
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/yanic.jpeg"
      alt="Yanic"
@@ -52,17 +43,6 @@ F1 enthusiast.
 Ph.D. candidate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca). \
 Graduated from Universidad Nacional de Colombia sede Bogotá with an M.Sc. in Physics. \
 Coffee addict. Enjoys movies.
-
-
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/karthik.jpg"
-     alt="Karthik"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Karthik Chinni**. \
-Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
-Graduated from University of New Mexico in 2022 with a Ph.D. thesis on [Reliability of Quantum Simulation on NISQ-era Devices
-](https://digitalrepository.unm.edu/phyc_etds/246/) supervised by [I. Deutsch](https://cquic.unm.edu/research/research-groups/deutsch-research-group/index.html).  
-Enjoys nature hikes and running.
 
 
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/gisell.jpg"
@@ -120,3 +100,6 @@ Enjoys music, films, coffee, and roaming through Wikipedia.
 * Jiaqi Zhao completed his M.Sc.A. in our group in 2024 → Ph.D. student at [Poly Montréal](https://www.polymtl.ca).
 * Germain Desloges was a summer intern in 2024 → undergrad student at [Poly Montréal](https://www.polymtl.ca).
 * [Nicolas Dalbec-Constant](https://scholar.google.ca/citations?hl=en&user=ab50BwQAAAAJ) completed his M.Sc.A. in 2024 → Ph.D. student at [U Ottawa](https://uottawa.ca).
+* [Martin Houde] was postdoc in our group up to 2026 → Quantum Scientist at [NordQuantique](https://www.nordquantique.ca/en/home).
+* [Karthik Chinni] was postdoc in our group up to 2026 → Research Associate at the [National Research Council of Canada](https://chemphys.ca/khabat-heshami/).
+
