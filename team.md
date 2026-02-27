@@ -100,6 +100,6 @@ Enjoys music, films, coffee, and roaming through Wikipedia.
 * Jiaqi Zhao completed his M.Sc.A. in our group in 2024 → Ph.D. student at [Poly Montréal](https://www.polymtl.ca).
 * Germain Desloges was a summer intern in 2024 → undergrad student at [Poly Montréal](https://www.polymtl.ca).
 * [Nicolas Dalbec-Constant](https://scholar.google.ca/citations?hl=en&user=ab50BwQAAAAJ) completed his M.Sc.A. in 2024 → Ph.D. student at [U Ottawa](https://uottawa.ca).
-* [Martin Houde] was postdoc in our group up to 2026 → Quantum Scientist at [NordQuantique](https://www.nordquantique.ca/en/home).
-* [Karthik Chinni] was postdoc in our group up to 2026 → Research Associate at the [National Research Council of Canada](https://chemphys.ca/khabat-heshami/).
+* [Martin Houde](https://scholar.google.ca/citations?user=aYXaUicAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Quantum Scientist at [NordQuantique](https://www.nordquantique.ca/en/home).
+* [Karthik Chinni](https://scholar.google.ca/citations?user=q71Ff1kAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Research Associate at the [National Research Council of Canada](https://chemphys.ca/khabat-heshami/).
 
