@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+* 05-03-26 **Javier's** work on trace distances of bosonic states in Krylov supspaces [appears on the arxiv](https://arxiv.org/abs/2603.05499).
+
+
 * 03-03-26 **Ari's** work on cat error correction in collaboration with Olivier Landon-Cardinal [appears on the arxiv](https://arxiv.org/abs/2603.03263).
 
 * 26-02-26 **Karthik's** work on optimal dipole estimation is now accepted in [New Journal of Physics](https://iopscience.iop.org/article/10.1088/1367-2630/ae4ace).
