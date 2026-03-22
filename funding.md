@@ -78,3 +78,16 @@ Research in our group is financially supported by
      width="318" 
      height="200"
      style="float: left; margin-right: 10px;" /> Photonique Quantique Québec.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/mitacs-logo-vector.svg"
+     alt="PQ2"
+     width="300" 
+     height="86"
+     style="float: left; margin-right: 10px;" /> Mitacs.
