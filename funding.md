@@ -87,7 +87,10 @@ Research in our group is financially supported by
 <br>
 
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/mitacs-logo-vector.svg"
-     alt="PQ2"
+     alt="Mitacs"
      width="300" 
      height="86"
      style="float: left; margin-right: 10px;" /> Mitacs.
+
+
+
