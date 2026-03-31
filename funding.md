@@ -111,8 +111,8 @@ Research in our group is financially supported by
 <br>
 <br>
 
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/nrc.svg"
-     alt="National Research Council of Canada"
+<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/nrc.svg"
+     alt="NRC"
      width="400" 
      height="60"
      style="float: left; margin-right: 10px;" /> National Research Council of Canada.
