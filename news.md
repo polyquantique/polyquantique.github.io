@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 08-04-26 Congrats to **Vincent** who has been awarded a Canada Graduate Scholarship to do his masters!
+
 * 31-03-26 Our collaboration with the National Research Council of Canada and the University of Ottawa within the Quantum Internet working program starts!
 
 * 05-03-26 **Javier's** work on trace distances of bosonic states in Krylov subspaces [appears on the arxiv](https://arxiv.org/abs/2603.05499).
