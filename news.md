@@ -3,6 +3,7 @@ layout: page
 title: News  
 permalink: /news/
 ---
+* 22-04-26 **Nicolás'** work in collaboration with Ulysse and Varun from École normale supérieure on Exponentially-improved effective descriptions of physical bosonic systems [appears on the arXiv](https://arxiv.org/abs/2604.18720).
 
 * 08-04-26 Congrats to **Vincent** who has been awarded a Canada Graduate Scholarship to do his masters!
 
