@@ -3,6 +3,7 @@ layout: page
 title: News  
 permalink: /news/
 ---
+* 22-04-26 **Nicolás'** work in collaboration with Ulysse and Varun from École normale supérieure on Exponentially-improved effective descriptions of physical bosonic systems [appears on the arXiv](https://arxiv.org/abs/2604.18720).
 
 * 08-04-26 The tutorial article on parametric processes in nonlinear structures with reflections by  **Tadeu, Salvador and Martin** [is published in Journal of Physics: Photonics](https://iopscience.iop.org/article/10.1088/2515-7647/ae58dd/meta).
 
