@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 08-04-26 The tutorial article on parametric processes in nonlinear structures with reflections by  **Tadeu, Salvador and Martin** [is published in Journal of Physics: Photonics](https://iopscience.iop.org/article/10.1088/2515-7647/ae58dd/meta).
+
 * 08-04-26 Congrats to **Vincent** who has been awarded a Canada Graduate Scholarship to do his masters!
 
 * 31-03-26 Our collaboration with the National Research Council of Canada and the University of Ottawa within the Quantum Internet working program starts!
