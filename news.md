@@ -4,11 +4,11 @@ title: News
 permalink: /news/
 ---
 
-* 25-06-26 **Martin's** work on high-gain effects in nonlinear interferometers with our collabroators, Benjamin, Franz and Christine, on nonlinear interferometerers [is published in New Journal of Physics](https://doi.org/10.1088/2515-7647/ae82a2)
+* 25-06-26 **Martin's** work on high-gain effects in nonlinear interferometers with our collabroators, Benjamin, Franz and Christine, [is published in New Journal of Physics](https://doi.org/10.1088/2515-7647/ae82a2)
 
-* 25-06-26 **Martin's** work on Fisher information in nonlinear interferometers with our collabroators, Benjamin, Franz and Christine, on nonlinear interferometerers [is published in Journal of Physics: Photonics](https://doi.org/10.1088/2515-7647/ae82a2)
+* 25-06-26 **Martin's** work on Fisher information in nonlinear interferometers with our collabroators, Benjamin, Franz and Christine,  [is published in Journal of Physics: Photonics](https://doi.org/10.1088/2515-7647/ae82a2)
 
-* 23-06-26 Our article on parametric processes in nonlinear structures with reflections by **Salvador, Tadeu, Yves-Alain and Martin** [is published in Journal of Optics](https://doi.org/10.1088/2040-8986/ae80e0).
+* 23-06-26 Our article on parametric processes in nonlinear structures with reflections using transfer matrices by **Salvador, Tadeu, Yves-Alain and Martin** [is published in Journal of Optics](https://doi.org/10.1088/2040-8986/ae80e0).
 
 * 22-04-26 **Nicolás'** work in collaboration with Ulysse and Varun from École normale supérieure on Exponentially-improved effective descriptions of physical bosonic systems [appears on the arXiv](https://arxiv.org/abs/2604.18720).
 
