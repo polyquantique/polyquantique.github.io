@@ -93,6 +93,15 @@ Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Po
 Graduated in 2024 with a PhD in Physics from Universidade Federal do ABC. \
 Enjoys music, films, coffee, and roaming through Wikipedia.
 
+<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/kevin_img.jpeg"
+     alt="Kevin"
+     width="80"
+     height="90"
+     style="float: left; margin-right: 10px;" /> **Kevin Giraldo**. \
+Intern, [Mitacs](https://www.mitacs.ca), [Polytechnique Montréal](https://www.polymtl.ca). \
+Undergraduate Physics student at [Universidad del Valle](https://www.univalle.edu.co). Interested in many-body physics and strongly correlated systems. \
+Enjoys playing soccer, playing video games, and trying new dishes from other countries.
+
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/Felipe__.jpeg"
      alt="Felipe"
      width="80"
