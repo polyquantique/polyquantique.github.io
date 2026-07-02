@@ -102,6 +102,15 @@ Intern, [Mitacs](https://www.mitacs.ca), [Polytechnique Montréal](https://www.p
 Undergraduate Physics student at [Universidad del Valle](https://www.univalle.edu.co). Interested in many-body physics and strongly correlated systems. \
 Enjoys playing soccer, playing video games, and trying new dishes from other countries.
 
+<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/Felipe__.jpeg"
+     alt="Felipe"
+     width="80"
+     height="90"
+     style="float: left; margin-right: 10px;" /> **Felipe Quitian**.  
+Mitacs Research Intern, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).   
+Undergraduate Physics student at [Universidad de Antioquia](https://www.udea.edu.co/) in Medellín, Colombia.
+I like to smile, football, chess, movies, sports, try new food, I like almost everything about life...
+
 ### Ancien.nes polyquanticien.nes
 * [Yuan Yao](https://scholar.google.ca/citations?hl=en&user=bJ2eOxIAAAAJ) was a visiting student completing [her Ph.D.](https://theses.fr/2023IPPAT005) at [Télécom Paris](https://www.telecom-paris.fr) in 2022 → Quantum Architecture Scientist at Xanadu Quantum Technologies → BoYa postdoctoral fellow at [Peking U](https://english.pku.edu.cn/).
 * Jaehee Kim was a Qcenter fellow in 2023 → Ph.D. student at [Sungkyunkwan U](https://www.skku.edu/eng/).
