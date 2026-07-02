@@ -97,7 +97,7 @@ Enjoys music, films, coffee, and roaming through Wikipedia.
      alt="Felipe"
      width="80"
      height="90"
-     style="float: left; margin-right: 10px;" /> [**Felipe Quitian**].  
+     style="float: left; margin-right: 10px;" /> **Felipe Quitian**.  
 Mitacs Research Intern, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).   
 Undergraduate Physics student at [Universidad de Antioquia](https://www.udea.edu.co/) in Medellín, Colombia.
 I like to smile, football, chess, movies, sports, try new food, I like almost everything about life...
