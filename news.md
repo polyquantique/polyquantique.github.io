@@ -4,9 +4,9 @@ title: News
 permalink: /news/
 ---
 
-* 25-06-26 **Martin's** work on high-gain effects in nonlinear interferometers with our collabroators, Benjamin, Franz and Christine, [is published in New Journal of Physics](https://doi.org/10.1088/1367-2630/ae8692).
+* 25-06-26 **Martin's** work on high-gain effects in nonlinear interferometers with our collaborators, Benjamin, Franz and Christine, [is published in New Journal of Physics](https://doi.org/10.1088/1367-2630/ae8692).
 
-* 25-06-26 **Martin's** work on Fisher information in nonlinear interferometers with our collabroators, Benjamin, Franz and Christine,  [is published in Journal of Physics: Photonics](https://doi.org/10.1088/2515-7647/ae82a2).
+* 25-06-26 **Martin's** work on Fisher information in nonlinear interferometers with our collaborators, Benjamin, Franz and Christine,  [is published in Journal of Physics: Photonics](https://doi.org/10.1088/2515-7647/ae82a2).
 
 * 23-06-26 Our article on parametric processes in nonlinear structures with reflections using transfer matrices by **Salvador, Tadeu, Yves-Alain and Martin** [is published in Journal of Optics](https://doi.org/10.1088/2040-8986/ae80e0).
 
