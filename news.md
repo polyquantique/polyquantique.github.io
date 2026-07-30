@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 03-03-26 **Marius'** work on parameter-shift rules for Boson Sampling [appears on the arxiv](https://arxiv.org/abs/2607.15160).
+
 * 25-06-26 **Martin's** work on high-gain effects in nonlinear interferometers with our collaborators, Benjamin, Franz and Christine, [is published in New Journal of Physics](https://doi.org/10.1088/1367-2630/ae8692).
 
 * 25-06-26 **Martin's** work on Fisher information in nonlinear interferometers with our collaborators, Benjamin, Franz and Christine,  [is published in Journal of Physics: Photonics](https://doi.org/10.1088/2515-7647/ae82a2).
