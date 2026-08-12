@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-* 11-08-26 **Javier** defended his PhD thesis "Verifying Quantum Computational Advantage in Near-term Quantum Photonics Devices" , passing with flying colours. Congrats [Dr. Martínez Cifuentes](https://academictree.org/physics/tree.php?pid=979047&fontsize=1&pnodecount=4&cnodecount=2)!
+* 11-08-26 **Javier** defended his PhD thesis "Verifying Quantum Computational Advantage in Near-term Quantum Photonic Devices" , passing with flying colours. Congrats [Dr. Martínez Cifuentes](https://academictree.org/physics/tree.php?pid=979047&fontsize=1&pnodecount=4&cnodecount=2)!
 
 * 06-08-26 The live interactive version of our work, led by **Nicolas** on Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals is now live on [Neurolibre](https://preprint.neurolibre.org/10.55458/neurolibre.00046/).
 
