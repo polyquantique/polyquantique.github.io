@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+* 11-08-26 **Javier** defended his PhD thesis "Verifying Quantum Computational Advantage in Near-term Quantum Photonics Devices" , passing with flying colours. Congrats [Dr. Martínez Cifuentes](https://academictree.org/physics/tree.php?pid=979047&fontsize=1&pnodecount=4&cnodecount=2)!
+
+* 06-08-26 The live interactive version of our work, led by **Nicolas** on Accurate Unsupervised Photon Counting from Transition Edge Sensor Signals is now live on [Neurolibre](https://preprint.neurolibre.org/10.55458/neurolibre.00046/).
+
 * 03-03-26 **Marius'** work on parameter-shift rules for Boson Sampling [appears on the arxiv](https://arxiv.org/abs/2607.15160).
 
 * 25-06-26 **Martin's** work on high-gain effects in nonlinear interferometers with our collaborators, Benjamin, Franz and Christine, [is published in New Journal of Physics](https://doi.org/10.1088/1367-2630/ae8692).
