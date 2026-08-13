@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 12-08-26 **Ari**'s paper in collaboration with Olivier Landon-Cardinal from ÉTS on cat telecorrection appears in [New Journal of Physics](https://doi.org/10.1088/1367-2630/ae98a7).
+
 * 12-08-26 **Yanic**'s paper in collaboration with Hubert de Guise from Lakehead U. describing [Haarpy](https://github.com/polyquantique/haarpy) has been published in the [Journal of Open Source Software](https://joss.theoj.org/papers/10.21105/joss.11002).
 
 * 11-08-26 **Javier** defended his PhD thesis "Verifying Quantum Computational Advantage in Near-term Quantum Photonic Devices" , passing with flying colours. Congrats [Dr. Martínez Cifuentes](https://academictree.org/physics/tree.php?pid=979047&fontsize=1&pnodecount=4&cnodecount=2)!
