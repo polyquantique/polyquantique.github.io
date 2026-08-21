@@ -4,10 +4,10 @@ title: News
 permalink: /news/
 ---
 
-* 11-08-26 **Marius** presented his M.Sc.A memoire "Parameter-Shift Rules for Gradients in Boson Sampling 
+* 21-08-26 **Marius** presented his M.Sc.A memoire "Parameter-Shift Rules for Gradients in Boson Sampling 
 Experiments". Congrats [Master of the applied dark arts Trudeau](https://academictree.org/physics/tree.php?pid=979602&fontsize=1&pnodecount=4&cnodecount=2)!
 
-* 11-08-26 **Yanic** presented his M.Sc.A memoire "Asymptotics of Photon-Number Cumulants of Gaussian States using Weingarten Calculus" , passing with flying colours. Congrats [Master of the applied dark arts Cardin](https://academictree.org/physics/tree.php?pid=979513&fontsize=1&pnodecount=4&cnodecount=2)!
+* 20-08-26 **Yanic** presented his M.Sc.A memoire "Asymptotics of Photon-Number Cumulants of Gaussian States using Weingarten Calculus" , passing with flying colours. Congrats [Master of the applied dark arts Cardin](https://academictree.org/physics/tree.php?pid=979513&fontsize=1&pnodecount=4&cnodecount=2)!
 
 * 12-08-26 **Ari**'s paper in collaboration with Olivier Landon-Cardinal from ÉTS on cat telecorrection appears in [New Journal of Physics](https://doi.org/10.1088/1367-2630/ae98a7).
 
