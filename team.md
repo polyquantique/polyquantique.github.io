@@ -14,16 +14,6 @@ Associate Professor.
 Self-apppointed benevolent dictator for life of The Walrus.
 
 
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/yanic.jpeg"
-     alt="Yanic"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Yanic Cardin**.  
-M.Sc.A. student, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
-Quantum physics enthusiast. \
-Enjoys meal prep and football Sundays. 
-
-
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/salvador.jpg"
      alt="Salvador"
      width="80" 
@@ -125,4 +115,7 @@ I like to smile, football, chess, movies, sports, try new food, I like almost ev
 * [Nicolas Dalbec-Constant](https://scholar.google.ca/citations?hl=en&user=ab50BwQAAAAJ) completed his M.Sc.A. in 2024 → Ph.D. student at [U Ottawa](https://uottawa.ca).
 * [Martin Houde](https://scholar.google.ca/citations?user=aYXaUicAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Quantum Scientist at [NordQuantique](https://www.nordquantique.ca/en/home).
 * [Karthik Chinni](https://scholar.google.ca/citations?user=q71Ff1kAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Research Associate at the [National Research Council of Canada](https://chemphys.ca/khabat-heshami/).
+* Yanic Cardin completed his M.Sc.A. in our group in 2026 → Ph.D. student at [École normale supérieure - PSL](https://www.ens.psl.ca).
+
+
 
