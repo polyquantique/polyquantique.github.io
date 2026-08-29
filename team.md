@@ -65,15 +65,6 @@ M.Sc.A. student, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechn
 Jointly supervised with [Yves-Alain Peter](https://www.polymtl.ca/phys/en/yves-alain-peter). \
 Enjoys climbing, music and physics.
 
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/marius.jpg"
-     alt="Marius"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Marius Trudeau**.  
-M.Sc.A. student, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca).  
-Quantum Physics Enthusiast. \
-Enjoys tennis, frisbee, Nordic skiing, and a wide range of sports, as well as exploring the flavors of various beverages, including beer, wine, scotch, rum, and even coffee.
-
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/tadeu.jpeg"
      alt="Tadeu"
      width="80"
@@ -83,26 +74,6 @@ Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Po
 Graduated in 2024 with a PhD in Physics from Universidade Federal do ABC. \
 Enjoys music, films, coffee, and roaming through Wikipedia.
 
-
-
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/kevin_img.jpeg"
-     alt="Kevin"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Kevin Giraldo**. \
-[Mitacs Intern](https://www.mitacs.ca), [Polytechnique Montréal](https://www.polymtl.ca). \
-Undergraduate Physics student at [Universidad del Valle](https://www.univalle.edu.co). Interested in many-body physics and strongly correlated systems. \
-Enjoys playing soccer, playing video games, and trying new dishes from other countries.
-
-
-<img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/Felipe__.jpeg"
-     alt="Felipe"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Felipe Quitian Gallego**. \
-[Mitacs Intern](https://www.mitacs.ca), [Polytechnique Montréal](https://www.polymtl.ca). \
-Undergraduate Physics student at [Universidad de Antioquia](https://www.udea.edu.co/) in Medellín, Colombia. \
-I like to smile, football, chess, movies, sports, try new food, I like almost everything about life...
 
 
 
@@ -116,6 +87,10 @@ I like to smile, football, chess, movies, sports, try new food, I like almost ev
 * [Martin Houde](https://scholar.google.ca/citations?user=aYXaUicAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Quantum Scientist at [NordQuantique](https://www.nordquantique.ca/en/home).
 * [Karthik Chinni](https://scholar.google.ca/citations?user=q71Ff1kAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Research Associate at the [National Research Council of Canada](https://chemphys.ca/khabat-heshami/).
 * Yanic Cardin completed his M.Sc.A. in our group in 2026 → Ph.D. student at [École normale supérieure - PSL](https://www.ens.psl.eu).
+* Marius Trudeau completed his M.Sc.A. in our group in 2026.
+* Kevin Giraldo was a Mitacs summer intern in 2026 → undergrad student at [Universidad del Valle](https://www.univalle.edu.co).
+* Felipe Quitian Gallego was a Mitacs summer intern in 2026 → undergrad student at [Universidad de Antioquia](https://www.udea.edu.co).
+
 
 
 
