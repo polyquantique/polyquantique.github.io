@@ -1,4 +1,4 @@
----
+1---
 layout: page
 title: Team 
 permalink: /team/
@@ -115,7 +115,7 @@ I like to smile, football, chess, movies, sports, try new food, I like almost ev
 * [Nicolas Dalbec-Constant](https://scholar.google.ca/citations?hl=en&user=ab50BwQAAAAJ) completed his M.Sc.A. in 2024 → Ph.D. student at [U Ottawa](https://uottawa.ca).
 * [Martin Houde](https://scholar.google.ca/citations?user=aYXaUicAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Quantum Scientist at [NordQuantique](https://www.nordquantique.ca/en/home).
 * [Karthik Chinni](https://scholar.google.ca/citations?user=q71Ff1kAAAAJ&hl=en&oi=ao) was postdoc in our group up to 2026 → Research Associate at the [National Research Council of Canada](https://chemphys.ca/khabat-heshami/).
-* Yanic Cardin completed his M.Sc.A. in our group in 2026 → Ph.D. student at [École normale supérieure - PSL](https://www.ens.psl.ca).
+* Yanic Cardin completed his M.Sc.A. in our group in 2026 → Ph.D. student at [École normale supérieure - PSL](https://www.ens.psl.fr).
 
 
 
