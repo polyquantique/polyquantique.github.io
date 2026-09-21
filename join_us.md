@@ -1,58 +1,56 @@
-# For undergraduates seeking research opportunities in our group
+# For Undergraduates Seeking Research Opportunities in Our Group
 
+**If you are interested in research opportunities, please read this page to the end before contacting me.**
 
-**To inquire about available opportunities read until the end of this page.**
+## My "Lab"
 
+I am a theoretical and computational physicist who does not work with experimental equipment. The type of research conducted in our group is typically done (a) individually, using pen, paper, and a computer, and (b) collaboratively, through discussions with group members around a physical or virtual whiteboard.
 
-## My "lab"
+In case it was not already obvious, we do not have a laboratory[^1]. We own precisely zero lasers, optical tables, detectors, or similar equipment. If you write asking about opportunities to do experimental work in my group, there is a good chance your email will go unanswered.
 
-I am a theoretical/computational physicist who does not touch experimental equipment. The kind of research we work on is normally done (a) by oneself using pen and paper and a computer, and (b) in discussion with other group member collaborators around a physical or online whiteboard. In case it was not obvious, we do not have a [laboratory](https://en.wikipedia.org/wiki/Laboratory)[^1], we are in possession of zero lasers/optical tables/detectors etc. If you write asking for opportunities to do experimental work in my lab, chances are your email will go unanswered. To have an idea of our research please consult the Research section and read this footnote [^2]. For instruction on how to contact me read this footnote [^3].
+To learn more about our research, please consult the Research section of this website and read footnote [^2]. Instructions on how to contact me are provided in footnote [^3].
 
+## Undergraduate Research Opportunities
 
+There are occasionally opportunities for *very strong* undergraduate students to conduct research in our group. Successful students are typically well versed in at least a few of the following areas:
 
-## For undergraduate opportunities in our group
+* **Linear algebra** (Do you know what an SVD is and how to use it? Do you know what a normal matrix is?)
+* **Scientific computing** (NumPy/SciPy, software development practices, version control, JIT compilation, JAX, and automatic differentiation)
+* **Quantum mechanics** (Can you write the interaction-picture Hamiltonian? Do you understand what a density matrix is, whether arising from classical uncertainty or from tracing out part of a larger quantum system?)
+* **Electromagnetism** (Can you reason about the modes of a waveguide, optical fiber, or resonator?)
 
-There are some opportunities for *very strong* undergraduate students to do research in our group. This will require the student to be well-versed in at least a couple of the following
-* Linear algebra (do you know what an SVD is, and how to use it? Do you know what a normal matrix is?).
-* Scientific computing (numpy/scipy, code development and version control, JIT code, jax and automatic differentiation).
-* Quantum mechanics (you can write interaction picture of a Hamiltonian, you understand what a density matrix is, either from classical ignorance or partially tracing a larger system).
-* Electromagnetism (can you reason about modes one a waveguide/fiber/resonator).
+These opportunities are typically funded through **NSERC USRA** or **Mitacs** programs.
 
-These opportunities are typically funded by the NSERC USRA program or the Mitacs. 
+## Graduate Opportunities
 
+Application deadlines for domestic and international students are available [here](https://www.polymtl.ca/futur/en/es/admission#abroad_prerequisites). Please note that a complete application must be submitted by the applicable deadline.
 
-## For graduate opportunities in our group
-The deadline for domestic and international applications for l'Ecole are provided [here](www.polymtl.ca/futur/en/es/admission#abroad_prerequisites). Note that you need to submit a complete dossier by the deadline indicated in the link below:
+### Canadian Citizens and Permanent Residents
 
-#### Canadian students/permanent residents
+* **Fall semester (September-December):** June 1
+* **Winter semester (January-April):** October 1
+* **Summer semester (May-August):** February 1
 
-* Fall Semester (September-December): June 1
-* Winter Semester (January-April): October 1
-* Summer Semester (May-August): February 1
+### International Students (Study Permit Required)
 
-#### International students (study permit)
+* **Fall semester (September-December):** February 1
+* **Winter semester (January-April):** June 1
+* **Summer semester (May-August):** October 1
 
-* Fall Semester (September-December): February 1
-* Winter Semester (January-April): June 1
-* Summer Semester (May-August): October 1
+A complete application includes proof of language proficiency in either French or English.
 
+I strongly prefer to recruit students immediately after the completion of their undergraduate degree, initially as master's students. This allows both of us to determine whether the research environment and supervision style are a good fit. A master's degree typically lasts one to two years and includes work on a research project. If there is mutual interest, students may subsequently transfer into the PhD program.
 
-A complete application includes a language proficiency test in either French or English.
+### Canadian Students
 
-I have a strong preference to take students right after they complete their undergraduate studies, as master's students. This provides an opportunity for me to get to know you and for you to get to know me; the master's will last 1 to 2 years including work in a research project. If there is common agreement and interest you can transfer into the PhD.
+You are welcome to inquire about opportunities in the group at any time of the year. If you join the group, I also strongly encourage you to apply for external scholarships such as those offered by NSERC or the FRQ. As a rule, applicants should have a background comparable to that of the *very strong* undergraduate students described above.
 
+### International Students
 
-### For Canadian students
-You are welcome to inquire anytime of the year about opportunities in the group. You are also strongly encouraged to consider funding opportunities from NSERC or FRQ should you join the group. Moreover, we expect you to have a background comparable to the *very strong* undergraduate students described above.
+Please note that your application deadlines are substantially earlier, and you should therefore contact me well in advance. You will also need to obtain both a Canadian study permit and a **Certificat d'acceptation du Québec (CAQ)**.
 
+[^1]: We do own a laser pointer that emits a beautiful mint-green beam at 505 nm.
 
-### For international students
-Notice that you have much earlier deadlines and thus need to contact earlier. Also note that you will need to get not only a study permit from the federal government of Canada but also a Certificat d'acceptation du Québec (CAQ)  from the provincial government of Québec.
+[^2]: We do not work on quantum machine learning. If that is the area you would like to pursue, that's great. However, please do not contact me about opportunities in that field, as I will not be able to help you.
 
-
-
-
-
-[1^]: We do own a laser pointer emitting emitting a beautiful green-mint colour at 505 nm.
-[2^]: We do not work on quantum machine learning. If you want to work on this field, great! Please don't write to me about this, I will not be able to help you.
-[3^]: Good! You made it until the end; please make sure when you write that the title of your message starts with QUANTIZE_{LEVEL} where LEVEL is one of {UNDERGRAD, GRADUATE}. If you don't your message will automatically be filtered out.
+[^3]: Good! You made it to the end. When writing to me, please ensure that the subject line of your email begins with `QUANTIZE_{LEVEL}`, where `LEVEL` is either `UNDERGRAD` or `GRADUATE`. Messages that do not follow this format will be automatically filtered out.
