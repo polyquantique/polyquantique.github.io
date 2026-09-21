@@ -12,13 +12,17 @@ permalink: /join_us/
 
 ## My "lab"
 
-I am a theoretical/computational physicist who does not touch experimental equipment. The kind of research we work on is normally done by oneself using pencil and paper and a computer, or in discussion with other group member collaborators around a physical or online whiteboard. In case it was not obvious, we do not have a [laboratory](https://en.wikipedia.org/wiki/Laboratory), we are in possession of zero lasers[^1]/optical tables/detectors etc. If you write asking for opportunities to do experimental work in my "lab", chances are your email will go unanswered. 
-[1^]: We do own a laser pointer emitting emitting a beautiful green-mint colour at 505 nm.
+I am a theoretical/computational physicist who does not touch experimental equipment. The kind of research we work on is normally done by oneself using pencil and paper and a computer, or in discussion with other group member collaborators around a physical or online whiteboard.
 
-To have an idea of our research please consult the Research section and read this footnote [^2]. For instructions on how to contact me read this footnote [^3].
-[2^]: We do not work on quantum machine learning. If you want to work on this field, great! Please don't write to me about this, I will not be able to help you.
-[3^]: Good! You made it until the end; please make sure when you send and email that the title of your message starts with QUANTIZE_{LEVEL} where LEVEL is one of {UNDERGRAD, GRADUATE}. If you don't your message will automatically be filtered out.
+In case it was not obvious, we do not have a https://en.wikipedia.org/wiki/Laboratory, we are in possession of zero lasers[^1]/optical tables/detectors etc. If you write asking for opportunities to do experimental work in my "lab", chances are your email will go unanswered.
 
+[^1]: We do own a laser pointer emitting a beautiful green-mint colour at 505 nm.
+
+To have an idea of our research please consult the Research section and read this footnote[^2]. For instructions on how to contact me read this footnote[^3].
+
+[^2]: We do not work on quantum machine learning. If you want to work in this field, great! Please do not write to me about this, as I will not be able to help you.
+
+[^3]: Good! You made it to the end. Please make sure that when you send an email, the subject line begins with `QUANTIZE_{LEVEL}`, where `LEVEL` is one of `{UNDERGRAD, GRADUATE}`. If it does not, your message will automatically be filtered out.
 
 ## For undergraduate opportunities in our group
 
