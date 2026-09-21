@@ -1,0 +1,28 @@
+---
+layout: page
+title: Code of Conduct
+permalink: /code_of_conduct/
+---
+
+# Code of conduct
+
+All Polyquantiquers are expected to uphold the following codes of professional and scientific conduct. The text below is heavily based in the one from [the QSAR group led by Prof. Di Matteo](https://glassnotes.github.io/qsar.html) which in turn is partially based on CoCs of the [Tropini](http://tropini.microbiology.ubc.ca/JEDI.html), [Avasthi](http://www.avasthilab.org/lab-policies-and-tips/), and [Willis](https://willisglycobiologylab.com/lab-code-of-conduct/) labs.
+
+The CoC was last reviewed in April 2026. As a group, we will review and update it together on at least a yearly basis (in particular, following an influx of new members) so that everyone has the opportunity to contribute their ideas.
+## Professional conduct
+
+* **You work with the group, not for the group.** Note that the group is called Polyquantique, not the mighty mighty Quesadillas group. All group members, regardless of their academic status, are independent researchers in training. Everyone comes with their own skill set and experience, and contributes their unique perspective to the work that we do. We work together and do not compete with each other.
+* **Be professional with everyone.** Treat other group members and your shared space with respect. Ensure everyone has the chance to speak during group meetings, and be mindful of interrupting or talking over others. Our work hours are flexible, so be considerate of the time and schedules of your colleagues. When you are collaborating with others, giving a talk, or at a conference, you are out representing our group. Conduct yourself in the same professional manner as you would within the group, regardless of where you are and who you are with, and follow the CoCs in place at events.
+* **Harassment will not be tolerated.** There is zero tolerance for exclusionary comments or jokes, threats, or violent behaviour or language. Offensive behaviour or comments of any kind relating to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, ethnicity, religion, lifestyle choices, etc. are not welcome in our group. Please do not take photographs of others, share their work, or post personally-identifying information online without their explicit permission.
+* **Ask for help when needed, and provide it willingly.** Everyone is here to learn, so ask lots of questions! When you receive questions, respond to them respectfully without putting the other person down; focus on helping the other person learn how to do something, rather than simply doing it for them. Be mindful of people's time: if your question is something a quick online search will resolve, do so before reaching out.
+* **Provide constructive feedback.** Feedback is meant to help someone improve. Identify errors when they occur, and make direct and honest suggestions where appropriate (including to the group lead!). Make feedback about the work, not the person. This includes discussions about the work of others.
+* **Take care of yourself and others.** If you are sick or otherwise not feeling well, stay home. A day at the office is not worth risking getting others sick and preventing you from taking care of yourself. If you are feeling well enough to work from home, that's great. If you are not, it's also great if you can just spend the day resting and getting better. If you are really not feeling well, seek medical care from a professional.
+
+## Scientific conduct
+
+* **We share our data and code.** We post preprints (and close-to-published versions) on the [arXiv](https://arxiv.org/) so that our work is available to everyone. We publish our source code and data under open-source licenses on GitHub or other code-sharing platforms. In a similar way, any data necessary to reproduce our results is posted in ~~[zenodo.org](https://zenodo.org/)~~ [borealisdata.ca](https://borealisdata.ca/dataverse/polymtl). We also prioritize the use of open-source libraries in our work, and contribute back to them when we can.
+* **We conduct our work with integrity.** Never falsify, make omissions, or otherwise manipulate your code or data. Our work should be reproducible by others in the field, and we should provide all that is needed to enable that. We do not write, that the data/code is available on reasonable request, we do write the link to find it directly.
+* **We collaborate.** This includes with other research groups at Polytechnique and beyond, companies, and online communities. We treat confidential information obtained during collaborations with utmost care. If you wish to establish collaborations with an external party, great! Please initiate a discussion with the group lead first.
+* **We provide proper attribution.** Always cite your sources and images in your written work and presentations, even if that source is yourself. When using external libraries in your project, make sure to check the licenses.
+* **It's okay to make mistakes.** Everyone makes them, this is how we learn. It is important to be open and honest about them, accept responsibility, and we will work together to resolve them.
+* It is the responsibility of the submitting author to obtain **consent of all the coauthors** when submitting a manuscript. Also the submitting coauthor should immediately share arXiv passwords for papers and journal correspondence.
