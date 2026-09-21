@@ -13,7 +13,7 @@ We are theoretical/computational physics group that does not touch experimental 
 
 In case it was not obvious, we do not have a [laboratory](https://en.wikipedia.org/wiki/Laboratory), we are in possession of zero optical tables/detectors and exactly one laser[^1]. If you write asking for opportunities to do work in our "lab", chances are your email will go unanswered.
 
-[^1]: A laser pointer emitting a beautiful green-mint colour at 505 nm.
+[^1]: An InGaN laser pointer emitting a beautiful green-mint (505 nm).
 
 To have an idea of our research please consult the [research](research) section and read this footnote[^2]. For instructions on how to contact me read this footnote[^3]. Furthermore, before applying you should read our [code of conduct](https://polyquantique.github.io/code_of_conduct).
 
