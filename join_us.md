@@ -29,7 +29,7 @@ There are opportunities for *very strong* undergraduate students to do research 
 * Quantum mechanics (interaction picture of a Hamiltonian, density matrices, Schmidt decompositions).
 * Electromagnetism (can you reason about modes on a waveguide/fiber/resonator).
 
-These opportunities are typically funded by the NSERC USRA program or the Mitacs. 
+These opportunities are typically funded by the [NSERC USRA](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards) program or [Mitacs](https://www.mitacs.ca/). 
 
 
 ### For graduate opportunities in our group
