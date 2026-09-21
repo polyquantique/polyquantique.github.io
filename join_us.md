@@ -10,11 +10,11 @@ permalink: /join_us/
 **To inquire about available opportunities read until the end of this page.**
 
 
-## My "lab"
+## The "lab"
 
-I am a theoretical/computational physicist who does not touch experimental equipment. The kind of research we work on is normally done by oneself using pencil and paper and a computer, or in discussion with other group member collaborators around a physical or online whiteboard.
+We are theoretical/computational physics group that does not touch experimental equipment. The kind of research we work on is normally done by oneself using pencil and paper and a computer, or in discussion with other group member collaborators around a physical or online whiteboard.
 
-In case it was not obvious, we do not have a https://en.wikipedia.org/wiki/Laboratory, we are in possession of zero lasers[^1]/optical tables/detectors etc. If you write asking for opportunities to do experimental work in my "lab", chances are your email will go unanswered.
+In case it was not obvious, we do not have a [laboratory](https://en.wikipedia.org/wiki/Laboratory), we are in possession of zero lasers[^1]/optical tables/detectors etc. If you write asking for opportunities to do work in our "lab", chances are your email will go unanswered.
 
 [^1]: We do own a laser pointer emitting a beautiful green-mint colour at 505 nm.
 
