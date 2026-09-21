@@ -33,7 +33,7 @@ These opportunities are typically funded by the [NSERC USRA](https://nserc-crsng
 
 
 ### For graduate opportunities in our group
-The instructions for domestic and international applications for l'Ecole are provided [here](www.polymtl.ca/futur/en/es/admission#abroad_prerequisites). Note that you need to submit a complete dossier by the deadline indicated in the link below:
+The instructions for domestic and international applications for l'École are provided [here](www.polymtl.ca/futur/en/es/admission#abroad_prerequisites). Note that you need to submit a complete dossier by the deadline indicated in the link below:
 
 A complete application includes a language proficiency test in either French or English.
 
