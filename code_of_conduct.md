@@ -4,8 +4,6 @@ title: Code of Conduct
 permalink: /code_of_conduct/
 ---
 
-# Code of conduct
-
 All Polyquantiquers are expected to uphold the following codes of professional and scientific conduct. The text below is heavily based in the one from [the QSAR group led by Prof. Di Matteo](https://glassnotes.github.io/qsar.html) which in turn is partially based on CoCs of the [Tropini](http://tropini.microbiology.ubc.ca/JEDI.html), [Avasthi](http://www.avasthilab.org/lab-policies-and-tips/), and [Willis](https://willisglycobiologylab.com/lab-code-of-conduct/) labs.
 
 The CoC was last reviewed in April 2026. As a group, we will review and update it together on at least a yearly basis (in particular, following an influx of new members) so that everyone has the opportunity to contribute their ideas.

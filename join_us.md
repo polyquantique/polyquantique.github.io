@@ -4,13 +4,10 @@ title: Join Us
 permalink: /join_us/
 ---
 
-# For students seeking research opportunities in our group
-
-
 **To inquire about available opportunities read until the end of this page.**
 
 
-## The "lab"
+### The "lab"
 
 We are theoretical/computational physics group that does not touch experimental equipment. The kind of research we work on is normally done by oneself using pencil and paper and a computer, or in discussion with other group member collaborators around a physical or online whiteboard.
 
@@ -24,7 +21,7 @@ To have an idea of our research please consult the [research](research) section 
 
 [^3]: Good! You made it to the end. Please make sure that when you send an email, the subject line begins with `QUANTIZE_{LEVEL}`, where `LEVEL` is one of `{UNDERGRAD, GRADUATE}`. If it does not, your message will automatically be filtered out.
 
-## For undergraduate opportunities in our group
+### For undergraduate opportunities in our group
 
 There are opportunities for *very strong* undergraduate students to do research in our group. This will require the student to be well-versed in at least a couple of the following
 * Linear algebra (do you know what an SVD is, and how to use it? Do you know what a normal matrix is?).
@@ -35,7 +32,7 @@ There are opportunities for *very strong* undergraduate students to do research 
 These opportunities are typically funded by the NSERC USRA program or the Mitacs. 
 
 
-## For graduate opportunities in our group
+### For graduate opportunities in our group
 The instructions for domestic and international applications for l'Ecole are provided [here](www.polymtl.ca/futur/en/es/admission#abroad_prerequisites). Note that you need to submit a complete dossier by the deadline indicated in the link below:
 
 A complete application includes a language proficiency test in either French or English.
@@ -43,7 +40,7 @@ A complete application includes a language proficiency test in either French or 
 I have a strong preference to take students right after they complete their undergraduate studies, as master's students. This provides an opportunity for me to get to know you and for you to get to know me; the master's will last 1 to 2 years including work in a research project. If there is common agreement and interest you can transfer into the PhD.
 
 
-### For Canadian students
+#### For Canadian students
 You are welcome to inquire anytime of the year about opportunities in the group. You are also strongly encouraged to consider funding opportunities from NSERC or FRQ should you join the group. Moreover, we expect you to have a background comparable to the *very strong* undergraduate students described above. Deadlines to start in the Fall/Winter and Summer semesters are summarized below
 
 * Fall Semester (September-December): June 1
@@ -51,7 +48,7 @@ You are welcome to inquire anytime of the year about opportunities in the group.
 * Summer Semester (May-August): February 1
 
 
-### For international students
+#### For international students
 Notice that you have much earlier deadlines and thus need to contact earlier. Also note that you will need to get a study permit from the federal government of Canada and also a Certificat d'acceptation du Québec (CAQ) from the provincial government of Québec. Upon admission you will be provided with a letter explaining how to obtain this document and detailing your funding.
 
 Deadlines to start in the Fall/Winter and Summer semesters are summarized below
