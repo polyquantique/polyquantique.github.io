@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+* 24-09-26 **Gisell**'s work in collaboration with Paul Virally and Sean Molesky on optimal pump for homodyne detection [appears on the arXiv](https://arxiv.org/abs/2609.28133).
+
+
 * 21-08-26 **Marius** presented his M.Sc.A memoire "Parameter-Shift Rules for Gradients in Boson Sampling 
 Experiments". Congrats [Master of the applied dark arts Trudeau](https://academictree.org/physics/tree.php?pid=979602&fontsize=1&pnodecount=4&cnodecount=2)!
 
