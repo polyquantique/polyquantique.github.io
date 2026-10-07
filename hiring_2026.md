@@ -4,6 +4,8 @@ title: Join Us
 permalink: /joinus/
 ---
 
+# THIS POSITION IS NO LONGER AVAILABLE
+
 ## About the group
 
 The Polyquantique research group led by Nicolás Quesada specializes in quantum photonics and quantum information. The group is looking for highly motivated candidates at the *Postdoctoral* and *PhD* level with interest and expertise in theoretical quantum optics.
