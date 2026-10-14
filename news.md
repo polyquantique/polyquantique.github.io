@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+* 14-11-26 **Javier's** work in collaboration with Tom Dodd, Oliver Thomson Brown, Nicolás and Raúl García-Patrón on a fast an frugal GBS emulator [appears on Science Advances](https://www.science.org/doi/10.1126/sciadv.aef8431).
+
+
 * 24-09-26 **Gisell**'s work in collaboration with Paul Virally and Sean Molesky on optimal pump for homodyne detection [appears on the arXiv](https://arxiv.org/abs/2609.28133).
 
 
