@@ -24,17 +24,6 @@ Jointly supervised with [Yves-Alain Peter](https://www.polymtl.ca/phys/en/yves-a
 Graduated from Universitat Politècnica de Catalunya with an M.Sc.A in Electronics. \
 F1 enthusiast.
 
-
-<img src="https://user-images.githubusercontent.com/95931266/177825256-34d87df1-e38e-4f7e-84cc-c729bcf2caa4.jpg"
-     alt="Javier"
-     width="80"
-     height="90"
-     style="float: left; margin-right: 10px;" /> **Javier Martínez Cifuentes**. \
-Ph.D. candidate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca). \
-Graduated from Universidad Nacional de Colombia sede Bogotá with an M.Sc. in Physics. \
-Coffee addict. Enjoys movies.
-
-
 <img src="https://github.com/polyquantique/polyquantique.github.io/raw/master/assets/images/gisell.jpg"
      alt="Gisell"
      width="80"
@@ -75,6 +64,14 @@ Graduated in 2024 with a PhD in Physics from Universidade Federal do ABC. \
 Enjoys music, films, coffee, and roaming through Wikipedia.
 
 
+<img src="https://user-images.githubusercontent.com/95931266/177825256-34d87df1-e38e-4f7e-84cc-c729bcf2caa4.jpg"
+     alt="Javier"
+     width="80"
+     height="90"
+     style="float: left; margin-right: 10px;" /> **Javier Martínez Cifuentes**. \
+Postdoctoral Associate, [Engineering Physics](https://www.polymtl.ca/phys/), [Polytechnique Montréal](https://www.polymtl.ca). \
+Ph.D. in engineering physics from Polytechnique Montréal, M.Sc. in Physics from Universidad Nacional de Colombia. \
+Recovered coffee addict. Enjoys movies.
 
 
 ### Ancien.nes polyquanticien.nes
