@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+* 12-08-26 **Marius'** paper in collaboration with Pierre-Emmanuel Emeriau from Quandela on gradients of quantum optical circuits appears in [Quantum Science and Technology](https://doi.org/10.1088/2058-9565/aebe63).
+
 * 14-11-26 **Javier's** work in collaboration with Tom Dodd, Oliver Thomson Brown, Nicolás and Raúl García-Patrón on a fast an frugal GBS emulator [appears on Science Advances](https://www.science.org/doi/10.1126/sciadv.aef8431). This work was covered in the [news website of the University of Edinburgh](https://informatics.ed.ac.uk/news/latest-news/software-breakthrough-could-spur-quantum-computer-advances) and also in the [Philosophical Magazine](https://philosophicalmagazine.com/scientific-computing/classical-algorithm-achieves-quantum-calculation-on-a-simple-laptop/).
 
 
