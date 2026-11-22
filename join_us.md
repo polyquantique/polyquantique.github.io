@@ -19,7 +19,7 @@ To have an idea of our research please consult the [research](https://polyquanti
 
 [^2]: We do not work on quantum machine learning. If you want to work in this field, great! Please do not write to me about this, as I will not be able to help you.
 
-[^3]: Good! You made it to the end. Please make sure that when you send an email, the subject line begins with `QUANTIZE_LEVEL`, where `LEVEL` is one of `{UNDERGRAD, GRADUATE}`. If it does not, your message will automatically be filtered out. Please make sure to include a one page cover letter, a one page resume and a recent academic transcript.
+[^3]: Good! You made it to the end. Please make sure that when you send an email, the subject line begins with `QUANTIZE_LEVEL`, where `LEVEL` ∈ `{UNDERGRAD, GRADUATE}`. If it does not, your message will automatically be filtered out. Please make sure to include a one page cover letter, a one page resume and a recent academic transcript.
 
 ### For undergraduate opportunities in our group
 
